@@ -1,0 +1,12 @@
+﻿Recomendamos que o programa seja rodado através do arquivo .ipynb via jupyter ou google colab pois isso torna os resultados mais compreensíveis.
+ 
+Para que esse código rode num computador pelo arquivo em python é preciso ter baixado:
+
+
+Python 3.0 
+Mathplotlib
+Pandas
+
+
+O código pode apresentar resultados mais legíveis ao ser rodado nos programas:
+VS code ou Spyder.
